@@ -75,7 +75,7 @@ struct RegisterationScreen: View {
                             .font(.system(size: 20, weight: .semibold))
                             .foregroundColor(.white)
                             .frame(maxWidth : .infinity)
-                            .frame(height : 61)
+                            .frame(height : 60)
                             .background(Color("blueColor"))
                             .cornerRadius(10)
                     })
