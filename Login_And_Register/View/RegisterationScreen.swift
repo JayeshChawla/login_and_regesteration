@@ -51,7 +51,7 @@ struct RegisterationScreen: View {
                         Spacer()
                     }
                  
-                    
+                        
                    Text("Create Account")
                         .foregroundColor(Color("blueColor"))
                         .font(.system(size: 30, weight: .bold))
@@ -75,7 +75,7 @@ struct RegisterationScreen: View {
                             .font(.system(size: 20, weight: .semibold))
                             .foregroundColor(.white)
                             .frame(maxWidth : .infinity)
-                            .frame(height : 60)
+                            .frame(height : 61)
                             .background(Color("blueColor"))
                             .cornerRadius(10)
                     })
